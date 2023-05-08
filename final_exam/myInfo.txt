@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Andrew Dougherty
 adough04@villanova.edu
-=======
+
 Mark Jones
->>>>>>> ef8299e72d61406dba8be883ab1bb1cf773d7a79
+
